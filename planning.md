@@ -10,6 +10,11 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+I'm choosing a CS Course selection and survival guide for Haverford College. I want to span the 
+CS course lottery, difficulty of courses, professor course structure and grading policies. This sort of 
+knowledge is mostly informal. You find out which courses are tough by word of mouth and you only get 
+grading info and course insights if you enroll and get a syllabus. I don't think I was aware of the 
+CS course lottery until I got to campus; even though it is on the registrar's website.
 
 ---
 
@@ -20,16 +25,19 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Haverford College Website | Information about course lotteries | https://www.haverford.edu/registrar/lotteries | 
+| 2 | College Confidential | Information about CS course difficulty and 4+1 | https://talk.collegeconfidential.com/t/math-computer-science-4-1-w-upenn/1869266 |
+| 3 | Rate My Professor | Prof Wonacott's RMP | https://www.ratemyprofessors.com/professor/752469 |
+| 4 | RMP | Steven Lindell RMP | https://www.ratemyprofessors.com/professor/2238783 |
+| 5 | Reddit | Is Haverford good for CS? | https://www.reddit.com/r/Pennsylvania/comments/10630z4/is_haverford_college_decent_for_comp_sci_looking/ |
+| 6 | Student-run Campus Publication | Letter about Shortage | https://haverfordclerk.com/open-letter-on-the-shortage-of-computer-science-faculty/ |
+| 7 | RMP | RMP Prof. Dung Nguyen | https://www.ratemyprofessors.com/professor/3122048 |
+| 8 | RMP | RMP John Dougherty | https://www.ratemyprofessors.com/professor/2349369 |
+| 9 | RMP | Sorelle Friedler RMP | https://www.ratemyprofessors.com/professor/2041582 |
+| 10 | Reddit | How are CS/math depts? | https://www.reddit.com/r/Haverford/comments/1kkygm5/how_is_the_computer_science_and_math_departments/ |
+| 11 | Haverford website | Requirements | https://www.haverford.edu/academics/computer-science-major-minor-and-concentration | 
+| 12 | Haverford Course Catalog | Course Catalog | https://www.haverford.edu/computer-science/courses/course-catalog |
+
 
 ---
 
@@ -40,6 +48,8 @@
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
+     chunking reddit, college confidential, and professor reviews may be similar. I think that chunking the requirements page, an article, and the course lottery page might be different. 
+
 **Chunk size:**
 
 **Overlap:**
@@ -49,7 +59,7 @@
 ---
 
 ## Retrieval Approach
-
+bout 
 <!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
      How many chunks will you retrieve per query (top-k)?
      If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
@@ -73,11 +83,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What is CS240 about? | Principles of Computer Organization...etc. |
+| 2 | What is Professor Wonacott like? | Student reviews are mixed. He is noted as being friendly, not the best at teaching, and long-winded.  |
+| 3 | What is the course lottery like at Haverford? | The lottery can be stressful because you are not guaranteed a course, but if you stick through it usually it's ok. |
+| 4 | What is the CS department like? | Generally nice. Pretty theoretical over applied. |
+| 5 | What courses should a first-year student take to start CS, and are they difficult? | Start with CS105/106 depending on background. CS105 is introductory and approachable; CS106 requires more background. Both are foundational before jumping into theory-heavy courses like CS245. Workload is moderate but consistent. |
 
 ---
 
@@ -87,7 +97,7 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. I am worried that I may not have enough information to answer everything I wanted in scope. I think some of the limitation is that there are actually not many online sources since Haverford is a smaller institution.
 
 2.
 

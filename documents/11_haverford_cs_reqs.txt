@@ -1,0 +1,122 @@
+Curriculum & Courses
+Our rigorous curriculum encompasses theory, analysis, design, and implementation of algorithms and data structures. We also emphasize strong communication skills and an unstinting attention to the implications—theoretical, practical, and ethical—of work in the field.
+
+Our program requires students to continually make connections across the curriculum and integrate what they have learned. Majors participate in HERA, a unique departmental project that requires them to draw from each of their upper level courses to construct, over the course of the major, an entire system.
+
+Major Requirements
+The major program covers the foundations of the discipline and provides a range of elective opportunities. While the computer science major is inspired by guidance from existing professional societies in computing, it is uniquely “Haverfordian” in its emphasis on a collaborative approach to a rigorous field of inquiry.
+
+Requirements are:
+
+Introduction: CMSC H105 and CMSC H106, or CMSC H107, or Bryn Mawr equivalents
+A 200-level + 300-level sequence in each of the three tracks, which would include the following courses:
+​theory: CMSC H231 followed by either CMSC H340 or CMSC H345 
+systems: (CMSC H240 or CMSC H251) + CMSC H356, or (CMSC B223 or CMSC H251) + CMSC H350, or (CMSC B223 or CMSC H251) + CMSC B355
+applications: CMSC H260 followed by either CMSC H325 or CMSC H360 or CMSC H364
+Electives (two courses): one CMSC course at the 200+ level, one CMSC course at the 300+ level
+Thesis (one course): CMSC H399
+A maximum of two courses for the major can be transferred from outside the Quaker Consortium; the introductory sequence must be taken at the Bi-Co, the 200 level core and two of the three 300 level requirements, must be taken within the Quaker Consortium.
+
+Requests for exception must be pre-approved by the Chair of the Department.
+
+Senior Thesis
+The senior thesis in computer science is a capstone experience under the guidance of a faculty member.  Students complete a thorough literature review in the initial term, and can continue with a research project into the subsequent term. Oral, poster and written presentations are required. This experience can include original work, but it must demonstrate deep thinking and an original exposition of an advanced topic.
+
+Students are required to enroll in a one-credit senior seminar course in the Fall term to ensure that they successfully complete this graduation requirement. There is a series of class activities and deadlines to help keep students on track for completing their thesis. In the fall semester, these include: the advisor selection process; submitting the topic proposal; completing the literature review; and the public poster presentation. In the optional spring semester, these include: implementing their project proposed in the previous term; completing a rough draft of their thesis; rehearsing their oral presentations; submitting the final thesis document; and giving their oral presentation. A second reader provides feedback periodically to the student and their advisor as to whether progress is satisfactory.
+
+A detailed schedule is provided to all students in the seminar at the beginning of the year.
+
+Senior Project Learning Goals
+The thesis work culminates in the writing and oral presentation of a paper. The student must also demonstrate the research skills required to produce this paper, in accordance with departmental deadlines.
+
+An undergraduate senior paper may or may not include original research, but must present an in-depth exploration of a topic in computer science (with particular focus on understanding and evaluating some element of the computer science literature). The paper should demonstrate the student’s ability to apply, in a new context, the fundamental themes and objectives that connect all computer science classes, such as:
+
+separating a problem definition from its solution.
+describing clearly a proposed solution (typically with examples).
+understanding the correctness and applicability of a proposed solution.
+comparing several proposed solutions in terms of clarity, resource requirements, etc.
+It is common for the thesis to center on a particular algorithm or computing system, and present the correctness and/or computational complexity thereof. However, this is not required. Students have successfully pursued other topics, such as human-computer interaction. The one core requirement is that the student demonstrates the ability to think deeply and communicate clearly about a computer science topic beyond the depth covered in classes.
+
+The written thesis often resembles a review article, which explores in depth a collection of primary source articles from a single research group, or a survey article, which compares primary source articles from different origins.
+
+The oral presentation is given after the thesis has been completed, though preliminary presentations are often also given as practice (and for formative assessment) during the year. The presentation is not graded, although all students are required to give one.
+
+The learning goals for the research that goes into the thesis experience are as follows:
+
+Aspirational (for the best students):
+
+A substantial written contribution that demonstrates original thinking and/or insight about a research area inside computer science, under the supervision of a faculty member. This should include a full literature review, appropriate replication of existing work, and either:
+
+a clear hypothesis (model), validation (proof/experiments), and analysis;  or
+original expository work, including the extension of a proof, or a new proof of an existing theorem.
+Since such theses include original material, they may constitute part of a publication (typically a joint publication with the advisor). However, publication is not required.
+Achievable (for most students):
+
+A confirmation and reiteration of existing work with an incremental contribution. Specifically, this includes a full literature review and either:
+
+a good and complete confirmation of an existing experiment on new data, including a good analysis; or
+an exposition of non-trivial graduate-level published work, including an existing proof or deep explanation of its extension/applicability (or its lack of extension) to other related concepts.
+Required (of all students):
+
+A non-trivial literature review/exposition of existing graduate-level published work, specifically:    
+
+The introductory material must be:
+
+readable by someone who has understood only the core computer science undergraduate material (e.g., programming languages, hardware, theory, algorithms, and at least one intensive systems course such as compilers or operating systems).
+detailed enough to be clear to someone within the field.
+The discussion of related work should:
+
+include all the important related/foundational work.
+clearly identify what problem is being addressed by each work (possibly one statement of this for many/all the works).
+clearly state the basic approach being taken.
+explain how each paper supports/evaluates its own results (proof/empirical-study/ad-hoc argument).
+make clear how this work relates to the thesis itself.
+in at least one case, really address the details of how the approach works (possibly several such discussions will be needed to address the point above).
+Senior Thesis Assessment
+The grade is approximately 75% based on the work done under the supervision of the faculty advisor and about 25% based on meeting the deadlines of and participating in the senior seminar, including the fall poster and spring presentation.
+
+The senior paper is primarily assessed by the student’s advisor. Usually one or more other members of the department also read the paper and provide feedback for the student and advisor.  If the student has a separate subject-matter advisor at another institution, that advisor is consulted during the grading of the paper if at all possible. All faculty involved in the thesis (and many students) are typically in attendance for the oral presentation.
+
+The grade for the senior experience is assigned by the advisor, based on the quality of the student’s written paper (judged in terms of illustrating mastery of the learning objectives relevant to the chosen topic), on participation in the oral presentation, and on the work habits illustrated during the year’s work.
+
+After thorough discussion by the Department, a student’s grade on the thesis will reflect how closely they have met the qualitative goals stated above. Specifically:
+
+4.0: meets aspirational goals stated above.
+3.0: meets achievable goals stated above.
+2.0: meets required goals stated above.
+All students should reach at least a 2.0 level of work on the material they submit by the end of the fall semester, and the faculty will certify students as having achieved this level (or not) in January.
+
+In addition to submitting the written thesis document, students must also complete the assigned presentation elements, which typically include a December poster presentation of the thesis topic and scope, and the final oral presentation of the thesis. These presentations are graded on evidence of preparation and on participation (i.e. showing up on time for one’s own presentation, attending the rehearsals of a few others, and providing feedback and/or asking questions). Faculty will provide informal feedback to the presenters on speaking style, professionalism, diction/grammar, poise, etc., but these elements are not included in the grade.
+
+Minor Requirements
+The Computer Science minor requirements follow the same philosophy and structure as the major: 
+
+the introductory sequence
+breadth: a 200-level course in each element of the field (theory, systems, and applications)
+depth: one year-long sequence (200-level into 300-level) in either theory, systems, or applications
+CMSC H105 Introduction to Computer Science or CMSC H107 or Bryn Mawr CMSC B113.
+CMSC H106 Introduction to Data Structures or CMSC H107 or Bryn Mawr CMSC B151.
+CMSC H231 Discrete Mathematics
+Students with strong backgrounds in mathematics and prior knowledge of the topics covered in CMSC H231 may wish to seek instructor permission to place into CMSC H340 /CMSC H345 without prior completion of CMSC H231—in this case, the student may complete the requirements for the minor with another course covering discrete mathematics, from the following list: MATH H210 (Linear Optimization), MATH H394 (Logic), MATH H394 (Cryptography), MATH H395 (Combinatorics), or STAT H203, STAT H218, STAT H286, or STAT H396.
+CMSC H251 Principles of Computing Systems
+Students wishing to continue to CMSC B355 may substitute CMSC B223 Systems Programming
+Students not taking a 35X course may substitute CMSC H240 Principles of Computer Organization or CMSC H245 Principles of Programming Languages
+CMSC H260 Foundations of Data Science
+One 300-level core course from the following list
+CMSC H340 Analysis of Algorithms
+CMSC H345 Theory of Computation
+CMSC H350 Compiler Design
+CMSC B355 Operating Systems
+CMSC H356 Concurrency and Co-Design in Operating Systems
+CMSC H325 Computation Linguistics
+CMSC H360 Machine Learning
+Concentration Requirements
+The Computer Science Department supports the Concentration in Scientific Computing, available to a variety of majors (https://www.haverford.edu/scientific-computing), and provides a computer science concentration specific to mathematics majors.
+
+Computer Science Concentration for Mathematics Majors Requirements
+NB: This concentration will not be available to students admitted for the fall of 2019 and beyond; for prior classes, these programs will remain available on an "if space permits" basis.
+CMSC H105 (Introduction to Computer Science) and CMSC H106 (Introduction to Data Structures), or CMSC H107.
+Either CMSC H240 (Principles of Computer Organization) or CMSC H245 (Principles of Programming Languages).
+Either CMSC H340 (Analysis of Algorithms) or CMSC H345 (Theory of Computation).
+One cross-listed MATH/CMSC course (Note that CMSC H231 meets this requirement and is the prerequisite for CMSC H340 and CMSC H345.)
+One additional 300-level computer science course.

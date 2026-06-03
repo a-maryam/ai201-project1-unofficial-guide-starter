@@ -1,0 +1,201 @@
+Courses
+NB: Bryn Mawr courses are described at https://www.brynmawr.edu/cs/courses
+
+CMSC H105  INTRODUCTION TO COMPUTER SCIENCE  (1.0 Credit)
+
+David Wonnacott, Suzanne Lindell
+
+Division: Natural Science; Quantitative
+Domain(s): C: Physical and Natural Processes
+
+Introduction to the intellectual and software tools used to create and study algorithms: formal and informal problem specification; problem solving and algorithm design techniques; reliability, formal verification, testing, and peer code review techniques; program clarity, complexity and efficiency; functional and imperative paradigms; associated programming skills. Students must attend a one-hour weekly lab. Labs will be sectioned by course professor. Prerequisite(s): May not be taken by students who have taken any one of HC: CMSC 104, CMSC 107; BMC: CMSC 110, except by instructor consent
+
+(Offered: Fall 2025)
+
+CMSC H106  INTRODUCTION TO DATA STRUCTURES  (1.0 Credit)
+
+Sorelle Friedler
+
+Division: Natural Science; Quantitative
+Domain(s): C: Physical and Natural Processes
+
+An introduction to the fundamental data structures of computer science: strings, lists, stacks, queues, trees, BSTs, graphs, sets and their accompanying algorithms. Principles of algorithmic analysis and object reasoning and design will be introduced using mathematical techniques for the notions of both complexity and correctness. More practical issues, such as memory management and hashing, will also be covered. The programming language used to illustrate and implement these concepts will be able to support functional, imperative and object-oriented approaches. Emphasis will be placed on recursive thinking and its connection to iteration. Students must attend a one-hour weekly lab. Labs will be sectioned by course professor. Prerequisite(s): CMSC 105 (or 110 or 113 at Bryn Mawr) or instructor consent; may not be taken by students who have taken any one of HC: CMSC 107; BMC: CMSC 206, CMSC 151, except by instructor consent
+
+(Offered: Fall 2025, Spring 2026)
+
+CMSC H107  INTRODUCTION TO COMPUTER SCIENCE AND DATA STRUCTURES  (1.0 Credit)
+
+Suzanne Lindell
+
+Division: Natural Science; Quantitative
+Domain(s): C: Physical and Natural Processes
+
+An accelerated treatment of CMSC 105/106 for students with significant programming experience. Reviews programming paradigms, while focusing on techniques for reasoning about about software: methodical testing, formal verification, code reviews, other topics as time permits. Includes lab work. Prerequisite(s): CMSC104 or instructor consent, or placement by CS faculty, based on CS placement test. If you are interested in CMSC 107, you should preregister for the CMSC 105 section at the same time and take the placement test by the deadline, typically Wednesday before classes start; may not be taken by students who have taken any one of HC: CMSC 105, CMSC 106; BMC: CMSC 206, except by instructor consent
+
+CMSC H222  SCIENTIFIC COMPUTING: CONTINUOUS SYSTEMS  (1.0 Credit)
+
+Rebecca Everett
+
+Division: Natural Science; Quantitative
+Domain(s): C: Physical and Natural Processes
+
+A survey of major algorithms in modern scientific computing, with a focus on continuous problems. Topics include numerical differentiation and integration, numerical linear algebra, root-finding, optimization, Monte Carlo methods, and discretization of differential equations. Basic ideas of error analysis are presented. Regular computer work in class introduces students to the software package Matlab, in which the algorithms are implemented and applied to various problems in the natural and social sciences. Crosslisted: Mathematics, Computer Science Prerequisite(s): Math 121
+
+CMSC H231  DISCRETE MATHEMATICS  (1.0 Credit)
+
+Steven Lindell
+
+Division: Natural Science; Quantitative
+Domain(s): C: Physical and Natural Processes
+
+An introduction to discrete mathematics with strong applications to computer science. Topics include set theory, functions and relations, propositional logic, proof techniques, difference equations, graphs, and trees. Co-requisite(s): CMSC 105, 107, or B110 or B113 or instructor consent
+
+(Offered: Fall 2025, Spring 2026)
+
+CMSC H245  PRINCIPLES OF PROGRAMMING LANGUAGES  (1.0 Credit)
+
+
+Division: Natural Science
+Domain(s): C: Physical and Natural Processes
+
+Study of the design and implementation of modern programming languages: lexical and syntactic analysis; scoping mechanisms; run-time environments; implementation of structured, functional, object-oriented, and concurrent programming languages. Lectures cover theoretical foundations of language design and implementation; labs provide opportunities to both use and implement language features. Prerequisite(s): CMSC 106, or 107 or 206, and CMSC/Math 231 (or instructor consent)
+
+CMSC H251  PRINCIPLES OF COMPUTING SYSTEMS  (1.0 Credit)
+
+John Dougherty
+
+Division: Natural Science
+Domain(s): C: Physical and Natural Processes
+
+What actually happens when you hit "run", after writing your program? This course introduces the elements of hardware and language/O.S. software that execute a program, serving as a foundation for later work in these areas, and providing insights into computing efficiency that may be important to a wide range of programmers. Includes weekly lab exercises, on principles covered in lecture, and details from lecture and self-teaching (according to resource-use principles presented in the course). Pre-requisite(s): Both introductory CS (CMSC H106, H107, or B151) and CMSC 231, with the latter allowed as co-requisite (Note that CMSC 223 and 251 cover substantially the same material, and thus students may not take both);
+
+(Offered: Fall 2025, Spring 2026)
+
+CMSC H260  FOUNDATIONS OF DATA SCIENCE  (1.0 Credit)
+
+Thao Nguyen
+
+Division: Natural Science
+Domain(s): C: Physical and Natural Processes
+
+This course will introduce students to the principles of learning from data, including basic modeling, applied linear algebra, probability, statistics, and visualization. The lab component will focus on implementation and analysis in Python. Pre-requisite(s): MATH 105 or equivalent, CMSC H106/CMSC B151 (Data Structures), corequisite CMSC H231 (Discrete Math), or permission of the instructor.
+
+(Offered: Fall 2025, Spring 2026)
+
+CMSC H265  CRITICAL STUDY OF DATA AND ALGORITHMS  (1.0 Credit)
+
+
+Division: Social Science
+Domain(s): B: Analysis of the Social World
+
+This class focuses on the social impact of data and algorithms. Students will be introduced to 1) what are data and algorithms, 2) how data and algorithms intersect with problems of peace, justice, and human rights, especially in terms of social inequality, 3) how to critically assess and challenge data and algorithms, and 4) the role of individual and collective action in responding to relevant problems. No prior experience with programming, data, or algorithms required. Crosslisted: CMSC, PEAC Lottery Preference: PJHR concentrators
+
+CMSC H266  ARTIFICIAL INTELLIGENCE AND SOCIETY  (1.0 Credit)
+
+Sorelle Friedler
+
+Division: Natural Science
+Domain(s): B: Analysis of the Social World; C: Physical and Natural Processes
+
+An introduction to and analysis of the impacts of artificial intelligence on society, including ethical, historical, policy, and technical perspectives on AI. Course topics will include: defining intelligence, algorithmic discrimination, AI harms, data, physical infrastructure and environmental impacts, workers, and the future of AI. Students will also do laboratory work related to technical and policy approaches to these issues including transparency mechanisms, AI audits, fair machine learning, and other mitigations for AI harms. Pre-requisite(s): CMSC 260 Foundations of Data Science or Instructor Consent Lottery Preference: 1. senior CMSC majors; 2. junior CMSC majors; 3. first years and sophomores; 4. senior CMSC minors; 5. juniors CMSC minors; 6. other seniors; 7. other juniors
+
+(Offered: Spring 2026)
+
+CMSC H340  ANALYSIS OF ALGORITHMS  (1.0 Credit)
+
+Dung Nguyen
+
+Division: Natural Science; Quantitative
+Domain(s): C: Physical and Natural Processes
+
+Qualitative and quantitative analysis of algorithms and their corresponding data structures from a precise mathematical point of view. Performance bounds, asymptotic and probabilistic analysis, worst case and average case behavior. Correctness and complexity. Particular classes of algorithms such as sorting searching will be studied in detail. Crosslisted: Computer Science, Mathematics Prerequisite(s): CMSC 106 or 107 or B206, and 231, or instructor consent
+
+(Offered: Fall 2025)
+
+CMSC H345  THEORY OF COMPUTATION  (1.0 Credit)
+
+Staff
+
+Division: Natural Science
+Domain(s): C: Physical and Natural Processes
+
+Introduction to the mathematical foundations of computer science: finite state automata, formal languages and grammars, Turing machines, computability, unsolvability, and computational complexity. Attendance at the weekly discussion section is required. Crosslisted: Computer Science, Mathematics Prerequisite(s): (CMSC 106, 107, 151, or 206) and CMSC 231, and junior or senior standing, or instructor consent
+
+(Offered: Spring 2026)
+
+CMSC H350  COMPILER DESIGN  (1.0 Credit)
+
+David Wonnacott
+
+Division: Natural Science
+Domain(s): C: Physical and Natural Processes
+
+An introduction to compiler design, including the tools and software design techniques required for compiler construction. Students construct a working compiler using appropriate tools and techniques in a semester-long laboratory project. Lectures combine practical topics to support lab work with more abstract discussions of software design and advanced compilation techniques. Prerequisite(s): CMSC H251 or CMSC B223; concurrent enrollment in this and two other CMSC lab courses requires instructor consent
+
+CMSC H356  CONCURRENCY AND CO-DESIGN IN OPERATING SYSTEMS  (1.0 Credit)
+
+John Dougherty
+
+Division: Natural Science
+Domain(s): C: Physical and Natural Processes
+
+A practical introduction to the principles of shared-memory concurrent programming and of hardware/software co-design, which together underlie modern operating systems; includes a substantial laboratory component, currently using Java's high-level concurrency and the HERA architecture. Prerequisite(s): CMSC 251 or B223 or H240; concurrent enrollment in this and two other CMSC lab courses requires permission of the instructor
+
+(Offered: Spring 2026)
+
+CMSC H360  MACHINE LEARNING  (1.0 Credit)
+
+Alvin Grissom
+
+Division: Natural Science; Quantitative
+Domain(s): C: Physical and Natural Processes
+
+To explore both classical and modern approaches, with an emphasis on theoretical understanding. There will be a significant math component (statistics and probability in particular), as well as a substantial implementation component (as opposed to using high-level libraries). However, during the last part of the course we will use a few modern libraries such as TensorFlow and Keras. By the end of this course, students should be able to form a hypothesis about a dataset of interest, use a variety of methods and approaches to test your hypothesis, and be able to interpret the results to form a meaningful conclusion. We will focus on real-world, publicly available datasets, not generating new data. Prerequisite(s): CMSC 260 or instructor consent
+
+(Offered: Fall 2025, Spring 2026)
+
+CMSC H364  COMPUTATIONAL BIOLOGY  (1.0 Credit)
+
+Sara Mathieson
+
+Division: Natural Science
+Domain(s): C: Physical and Natural Processes
+
+This course introduces foundational algorithms that have become essential for learning from biological data. With the genome sequencing revolution, it has become easier and cheaper to obtain genetic data, but often challenging to store, analyze, and make sense of this data. These questions have driven new algorithm development and repurposed existing algorithms for biology. We will study these algorithms from a variety of angles, including theory, implementation, application, biological interpretation, and communication of results. Pre-requisite(s): CS260 "Foundations of Data Science Lottery Preference: 1. senior CMSC majors; 2. junior CMSC majors; 3. senior CMSC minors; 4. junior CMSC minors; 5. Scientific Computing concentrators; 6. senior LING majors; 7. junior LING majors; 8. other seniors; 9. other juniors; 10. sophomores; 11. everyone else
+
+CMSC H394  ADVANCED TOPICS IN THEORETICAL COMPUTER SCIENCE: MATH FOUNDATIONS OF MACHINE LEARNING  (1.0 Credit)
+
+
+Division: Natural Science
+Domain(s): C: Physical and Natural Processes
+
+A 300-level course on the mathematical foundations of computer science, with the particular topic(s) varying each time it is offered. Fall 2023: An introduction to the mathematical principles behind modern machine learning algorithms. Covers advanced topics in linear algebra, vector calculus, probability theory, and optimization, with a particular focus on their relevance to machine learning tasks. We will also discuss various practical applications. Crosslisted: Mathematics, Computer Science. Prerequisite(s): MATH 121 and 215, or instructor permission
+
+CMSC H395  ADVANCED TOPICS IN COMPUTER SYSTEMS: TYPE-THEORETIC FOUNDATIONS FOR RELIABLE SOFTWARE DESIGN  (1.0 Credit)
+
+Staff
+
+Division: Natural Science
+Domain(s): C: Physical and Natural Processes
+
+Software reliability is of paramount importance in critical applications, like smart grids, online banking and automated life-support systems. Errors in software that supports such applications can lead to damaging consequences, like loss of life and property. Type systems provide an effective way to reduce such errors, thereby making the software more reliable. In this course, we shall dive into the foundations of type systems and see how they help us design reliable software. In particular, we shall study a foundational type system called the Simply-Typed Lambda-Calculus and discuss how it can be extended to design software that can be used reliably in critical applications. Prerequisite(s): CMSC 106/151/107 and CMSC 231, or permission of instructor
+
+CMSC H399  SENIOR THESIS  (1.0 Credit)
+
+Steven Lindell
+
+Division: Natural Science
+
+Fall seminar required for seniors writing theses, dealing with the oral and written exposition of advanced material. Lottery Preference(s): Senior standing
+
+(Offered: Fall 2025)
+
+CMSC H480  INDEPENDENT STUDY  (1.0 Credit)
+
+John Dougherty, Sorelle Friedler
+
+Division: Natural Science
+
+Independent study, supervised by a member of the Computer Science department. Prerequisite(s): Instructor consent
+
+(Offered: Fall 2025)

@@ -1,0 +1,283 @@
+Open Letter: On the Shortage of Computer Science Faculty
+By Guest on April 16, 2018 | Opinion
+[Editor’s Note: Since the publishing of this open letter, Bryn Mawr and Haverford colleges have both begun searches for tenure-track positions in each school’s Department of Computer Science.]
+
+This letter was written by Daniel Feshbach, with help from Henry Mohr, Emily Lin, Kevin Liao, Alison Rosenman, and many others. It is signed by past, present, and future students. The writers also sent the letter to the Education Policy Committee, and that version also includes personal comments from many of the signatories.
+
+Dear Education Policy Committee,
+
+By now, many of you have probably seen the April Fools Day decorations that the Computer Science (CS) Majors put up this year, centering around our department’s critical shortage of faculty. In case you have not, we have included some pictures here in order to highlight the urgency communicated in these efforts. As computing has become increasingly central to our society and understanding it has also become increasingly important to a well-rounded education, our dire shortage of faculty has created what can only be described as a crisis for students interested in Computer Science, lotterying us out of required introductory and upper-level classes. Without more tenure-track hiring, the enrollment situation will only get worse. The lack of faculty leaves glaring gaps in our curricular offerings — as we lack experts in crucial areas of CS — and effectively destroys the department’s ability to be part of a balanced liberal arts education for non-majors.
+
+We are writing to implore the Education Policy Committee to approve the Computer Science department’s request to conduct a search for at least two tenure-track faculty positions. Although two new positions would somewhat mitigate the enrollment crisis for several years, it is important to be aware that, truly, even more faculty will be needed to create a robust department that can keep up with the long-term increase in interest. As we write, we know that you are already reviewing departments’ applications for tenure-track positions.With this letter, we intend not only to make the Education Policy Committee aware of the urgency of the situation, but also to share this information with Haverford’s current, past, and future community members by publishing in The Clerk.
+
+Screen Shot 2018-04-16 at 6.58.02 PM
+*According to departmental records (which occasionally differ slightly from how college records count graduation year for students who take more than eight consecutive semesters to graduate). **Sorelle Friedler started in a tenure-track position in the summer of 2014, which we count as applying to the class of 2016 because that is when they were starting as declared majors.
+To begin, you need a sense of the scale of the problem. The number of majors is growing quickly – a trend we should expect to continue – while the size of the department’s faculty has not increased proportionately. This trend is not unique to Haverford but rather is a problem at schools all over the country; it is a product of the growing centrality of technology in our society as well as the robust job market for computer scientists. On one end, student interest in studying computer science (whether as majors or not) is skyrocketing. In Fortune magazine, UMBC Professor Marie desJardins wrote in 2015 that a 2014 “Taulbee survey reported nearly 102,000 majors in computer science and computer engineering… an increase of a remarkable 120% in the seven years” from 2007. “Within a year or two” of this increase, “every computer science professor in the country knew it was not just a blip,” and “as we scrambled to hire more faculty, increase class sizes, and try to find ways to accommodate our increasingly long waiting lists, the students just kept coming.”
+
+On the other end, it is becoming increasingly difficult to draw people with CS PhDs into a career in academia given the other options available to them. For Haverford to have a functional and sustainable department at all, let alone to maintain high standards and compete with other top-tier institutions, we need to hire as many tenure-track faculty members as possible, as soon as possible. We can only expect these trends to get increasingly extreme: in the future, our need for faculty will be much greater and the competition to hire will get increasingly insurmountable, so we need to secure permanent faculty while we can.
+
+IMG_0972
+“A Quick Note.” Photo Credit: Henry Mohr From the CS April Fools Day decorations in Hilles.
+It is not only the sheer numbers of students our department can serve that must increase, but also our ability to engage with the breadth of Computer Science as a discipline. We lack permanent faculty in domains of CS paramount to the future of the world, from Cybersecurity to Networks to Robotics. Meanwhile, the professors we already have are so consumed with teaching multiple sections of overenrolled core courses that they are unable to offer electives they might want to teach in their own research areas, such as CS Education, Information Theory, Ethics in Data Science, Machine Learning, and more. The enrollment crisis also prevents them from exploring interdisciplinary collaborations they have expressed interested in, such as offering first-year writing seminars exploring the intersections of technology and society, or teaching and researching with VCAM on topics like user-interface design systems and embedded systems for environmental studies. Even our course arrangements with other colleges fail to substantially broaden our curriculum. The Bryn Mawr department is in the exact same boat as us, the Swarthmore department effectively shuts out our students by placing even our majors lower on the lottery priority than their first-years, and the Penn department is outside of the School of Arts and Sciences and thus (notwithstanding the occasional courtesy of individual professors) not part of the Quaker Consortium agreement we have with them.
+
+As this is a national problem, to understand the options available to us it bears consideration how some of our peer institutions deal with it. The approaches fall into three broad categories: increasing class sizes, turning students away, and hiring: only hiring, specifically tenure-track hiring, is appropriate in our case.
+
+IMG_0968
+“This Is Where I’d Put My New Tenure-Track CS Professor…” Photo Credit: Henry Mohr From the CS April Fools Day decorations in Hilles.
+We have already pushed the class sizes option to its limit, increasing enrollment caps substantially and still regularly running classes exceeding them. This places a huge burden on our faculty, making them deal with tons of extra work and straining their time and energy among too many students. To continue this any further would fundamentally undermine how we teach computer science as a liberal arts college, forcing us to do things like automate grading (shifting to rougher but easier-to-grade heuristics for achievement) and relying on TAs (which we do not have enough of anyway) to teach core content, ultimately replacing our emphasis on deep understanding and effective communication with a surface-level ‘if-it-works-it-works’ attitude. This would be to the detriment of our students as well as to the society we send them into, not to mention eroding Haverford’s appeal to prospective students seeking a personal and supportive education.
+
+Turning people away directly can happen either by implementing a separate admissions process for a “School of Computer Science” or by capping the number of majors to exclude lots of interested and qualified students. Neither option is in line with our values; empowering students to explore options and then choose whatever they want to study is at the core of Haverford’s educational mission. Additionally, each option would specifically further the distortion of CS students against underrepresented groups, because each dramatically favors students who come into college already knowing they are interested in CS and having some experience in it. Prior interest in CS is not a neutral criterion, but one which discriminates against those who did not go to high schools with the resources to have quality CS programs (or have the resources to study CS on their own), as well as against the sorts of marginalized identities not culturally encouraged to pursue STEM.
+
+Screen Shot 2018-04-16 at 5.37.02 PM
+*Counts CMSC H105 (Intro to Computer Science) and H107 (Intro to Computer Science and Data Structures) first semester, H106 (Data Structures) and H104 (Topics in Introductory Programming) second semester. Includes Spring 2018 sections of 104 taught by other departments, because including them makes comparing over time makes more sense, and because they do involve CS faculty and resources. Data from the lottery’s reputation drives many students away from even trying to take these courses. Tableau (and, for enrollment in CHEM H104 Spring 2018, BiONiC). **Number of students who pre-registered plus number of students who added a course during shopping week. We believe this to be an underestimate of interest, because students are discouraged from even trying to sign up for CS courses when they know they can’t get in.
+Turning people away should not be acceptable at Haverford, and yet we are right now implementing a version of this, with the added outrage that our administration and admissions office are not being transparent about it. Rather than the honest product of deliberate decisions, the situation is the concealed product of passive decisions not to hire more tenure-track faculty years ago – but the status quo no less turns people away than do the schools that have separate admissions processes or highly restrictive caps on the number of majors. Absent dramatic increase in department staffing, admissions simply should not tell prospective students that they can freely choose to major in Computer Science.
+
+As we turn so many students away, we bias the process in favor of students with the resources to navigate the kafkaesque labyrinth of getting into CS courses. Most directly, while the necessary measures of registering for and shopping as many courses as you possibly can (with multiple backup plans depending on which ones you get into, and keeping up for several weeks with the all the work) is a hardship for anyone, it is especially burdensome to students who need to work paid jobs for many hours a week. More subtly but no less powerfully, the opportunity to quickly get to know CS majors as a first-year in time to learn about what it takes to get into a CS course is critical to getting through the process. Such bonds are more quickly and easily formed along shared identities, undermining efforts to include marginalized groups in creating the technology that will shape our future. And finally, a crucial form of social capital is the sheer determination and entitlement that leads one to show up to classes as 20th on the waitlist and stay for as long as possible. While all students should feel such entitlement to take CS courses, in reality this attitude is strongly associated with the identities our culture portrays as “belonging” in the technology world, as well as simply with wealth – and of course if every student who thinks they might like CS had this attitude, it would make the lotteries much worse even than they already are.
+
+Hiring more professors, then, is the only solution that makes sense for an institution like Haverford. We specifically need tenure-track openings, both for the permanence and stability it provides our department and because, in the competitive market to hire CS PhDs, visiting positions are less desirable and increasingly difficult to fill. For the 2017-2018 academic year we were approved to hire three visiting professors, but we were only able to fill two of these positions due to intense competition over the few qualified applicants. As computation is becoming more and more pervasive in our lives, understanding computing is taking an increasingly central place in a well-rounded education, enrollment interest in Computer Science is skyrocketing, and hiring experts is becoming more and more competitive, the question has become not whether Haverford can afford to hire tenure-track CS faculty right now but whether we can afford to wait even one more year to begin our search.
+
+As we consider affordability, it also bears mentioning that graduates who study Computer Science, whether as a major or otherwise, are in a substantially improved position to support Haverford’s long-term financial health. While we do not consider this an affirmative reason why supporting the department is important to the college’s mission, we do think it would be shortsighted to let money be the reason we fail to do so. Further, it is important to distinguish the notion that students want to study Computer Science as “vocational training” from the understanding that both students and companies are recognizing the transformative nature of computing and see it as essential to a complete education. (We put “vocational training” in skeptical-quotes because the Haverford department takes a relatively foundational approach that prioritizes preparing us to learn and adapt throughout our lives over teaching us the latest technologies, and also because there are class issues to unpack in our attitudes towards the relationship between education and jobs).
+
+Being able to take on and graduate its own majors, which the department already strains to do, is the bare minimum of what we should expect from a department at a liberal arts college. As much as Haverford likes to present itself as an environment where each student can explore a diversity of academic interests and cultivate a multifaceted worldview, right now the CS department is unable to help broaden the education of non-majors. It has even been forced to eliminate the CS minor, because non-majors simply cannot get into upper-level courses to complete it. That this should be necessary at an institution of our caliber is shameful, and as the situation continues to deteriorate it will actively undermine the institution’s status. What kind of a college, prospective students are (appropriately) thinking, cannot offer its students the ability to understand how computing works? Deception by omission from the admissions office about the availability of CS courses is a very limited tool in holding back this information, as illustrated by the recent open letter to admitted Bryn Mawr students urging them to consider not enrolling if they are interested in science (especially CS). 
+
+IMG_0969
+“Death of the CS Minor.” Photo Credit: Henry Mohr From the CS April Fools Day decorations in Hilles.
+Not only does the status quo fail our goals as an institution, it fails our duty to society to produce graduates who are both computationally and socioculturally literate. Ultimately, we care about providing a broad liberal arts education because such an experience gives individuals the perspectives to think flexibly and creatively about all sorts of problems for their entire lives. As our website describes our academic requirements, “A liberal arts education requires a sense of the breadth of human inquiry and creativity… Every student is encouraged to engage a full range of disciplines—fine arts, the written word, empirical investigation, economy, and society—in order to become a broadly educated person.” In the 21st century, as our world is in desperate need of global citizens who combine solid knowledge of the foundations of computing with a nuanced understanding of culture and politics, Haverford’s mission could not be more relevant: but we cannot follow through on it without a robust department of Computer Science.
+
+ 
+
+Sincerely,
+Sincerely,
+
+Daniel Feshbach ‘20
+
+Barak Bacharach ‘15
+
+Michael Feldman ‘15
+
+Adam Van Aken ‘15
+
+Bryce Lewis BMC ‘16
+
+Geoffrey Martin-Noble ‘16
+
+Kyu Hyun Chang ‘17
+
+Madeleine Hodges ‘18
+
+Kevin Liao ‘18
+
+William Bassett ‘18
+
+Erica Blum ‘18
+
+Alex Snow ‘18
+
+Skyler Ellenburg ‘18
+
+Calla Carter BMC ‘18
+
+Dylan Emery ‘18
+
+Mary Glaser ‘18
+
+Lizzie Siegle BMC’18
+
+Annika Ulrich ’18
+
+Lincoln Satterthwaite ‘18
+
+Amy Zamora ‘18
+
+Becky Lytle ‘18
+
+Brandon Stanley ‘18
+
+Vaughn Papenhausen ‘18
+
+Rosalind Xu ‘18
+
+Siyan Wang ‘18
+
+Aaron Schankler ‘18
+
+Alexandra Morrison ‘18
+
+Lizzie Siegle BMC’18
+
+Alejandro Wences ‘19
+
+Christopher Villalta ‘19
+
+Divesh Otwani ‘19
+
+Dylan Slack ‘19
+
+Jordan Acker ‘19
+
+Alissa Valentine ‘19
+
+Jai Nimgaonkar ‘19
+
+David Parker ‘19
+
+Vaidehi Agarwalla ‘19
+
+Samantha Chu ‘19
+
+Zhechen Zhu ‘19
+
+Sam Partee ‘19
+
+Rebecca Chang ‘19
+
+Sarah Sujin Kay ‘19
+
+Austin Huber ‘19
+
+Jordanlee Parra ‘19
+
+Hannah Wild ‘19
+
+Yutong Li ‘19
+Batia Katz ‘19
+
+Ian Fisher ‘19
+
+Maggie Steinberg ‘19
+
+Emily Dombrovskaya ‘19
+
+Rohan Shukla ‘19
+
+Kennedy Ellison BMC ‘19
+
+Miles Knecht ‘19
+
+Ryan Herlihy ‘19
+
+Amanda-Lynn Quintero ‘19
+
+Kellie Dinh BMC ‘19
+
+Emily Lin ‘20
+
+Henry Mohr ‘20
+
+Isabel Floyd ‘20
+
+Ari Kim ‘20
+
+Isaiah Kriegman ‘20
+
+Ben Rogers-Boehme ‘20
+
+Jack St. Clair ‘20
+
+Russell Gerhard ‘20
+
+Cara Netzer ‘20
+
+Elizabeth Teng ‘20
+
+Sam Lowenstein ‘20
+
+Laura Seaberg ‘20
+
+Gareth Nicholas ‘20
+
+Zhanpeng Wang ‘20
+
+Zachary Broadman ‘20
+
+Travis Grant ‘20
+
+Charles Marx ‘20
+
+Jacob Murray ‘20
+
+Young Ko ‘20
+
+Silvia Susai ‘20
+
+Ahmed Ishtiaque ‘20
+
+Sam Danish ‘20
+
+Yixuan Zhou ‘20
+
+Alyssa Kerper ‘20
+
+Teruha Stergios ‘20
+
+Russell Rivera ‘20
+
+Yuchao Wang ‘20
+
+Hannah Beilinson ‘20
+
+Kendra Griesman ‘20
+
+Brian Becker ‘20
+
+Aleiyah Springer ‘20
+
+Mac Lyle ‘20
+
+Kierra Smith ‘20
+
+Marc Jaskir ‘20
+
+Grace Brosnan ‘20
+
+Wanyi Yang ‘20
+
+Kadan Lottick ‘20
+
+Claire Cai ‘21
+
+Alton Wiggers ‘21
+
+Carter Langen ‘21
+
+Aleena Maryam ‘21
+
+Emile Givental ‘21
+
+Blien Habtu ‘21
+
+Steve Lee ‘21
+
+Makoto Manheim ’21
+
+Jixin Jia ‘21
+
+Jason Ngo ‘21
+
+Joe Dizenhuz ‘21
+
+Keiran Marrett-Hitch ‘21
+
+Charith Wijeyesekera ‘21
+
+Yongxin Xu ‘21
+
+Frank Wang ‘21
+
+Tomas Paris ‘21
+
+Ian Ogolla ‘21
+
+Jackson Meyer-Lee ‘21
+
+Julian Goddy ‘21
+
+Daniel Sole-Barber ‘21
+
+Cicek Yavuz ‘22
+
+Keeton Martin ‘22
+
+Iryna Khovryak ‘22
+
+Jiajie Ma ‘22
