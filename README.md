@@ -22,37 +22,51 @@
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+Note about document ingestion: I copied in the documents into txt files and cleaned them manually (it wasn't much)
+
+| # | Source | Description | URL or location |
+|---|--------|-------------|-----------------|
+| 1 | Haverford College Website | Information about course lotteries | https://www.haverford.edu/registrar/lotteries | 
+| 2 | College Confidential | Information about CS course difficulty and 4+1 | https://talk.collegeconfidential.com/t/math-computer-science-4-1-w-upenn/1869266 |
+| 3 | Rate My Professor | Prof Wonacott's RMP | https://www.ratemyprofessors.com/professor/752469 |
+| 4 | RMP | Steven Lindell RMP | https://www.ratemyprofessors.com/professor/2238783 |
+| 5 | Reddit | Is Haverford good for CS? | https://www.reddit.com/r/Pennsylvania/comments/10630z4/is_haverford_college_decent_for_comp_sci_looking/ |
+| 6 | Student-run Campus Publication | Letter about Shortage | https://haverfordclerk.com/open-letter-on-the-shortage-of-computer-science-faculty/ |
+| 7 | RMP | RMP Prof. Dung Nguyen | https://www.ratemyprofessors.com/professor/3122048 |
+| 8 | RMP | RMP John Dougherty | https://www.ratemyprofessors.com/professor/2349369 |
+| 9 | RMP | Sorelle Friedler RMP | https://www.ratemyprofessors.com/professor/2041582 |
+| 10 | Reddit | How are CS/math depts? | https://www.reddit.com/r/Haverford/comments/1kkygm5/how_is_the_computer_science_and_math_departments/ |
+| 11 | Haverford website | Requirements | https://www.haverford.edu/academics/computer-science-major-minor-and-concentration | 
+| 12 | Haverford Course Catalog | Course Catalog | https://www.haverford.edu/computer-science/courses/course-catalog |
+
 
 ---
 
 ## Chunking Strategy
 
-<!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
-     Include:
-     - Chunk size (characters or tokens) and why that size fits your documents
-     - Overlap size and why (or why not) you used overlap
-     - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
-     - What your final chunk count was across all documents -->
+<!-- How will you split documents into chunks?
+     State your chunk size (in tokens or characters), overlap size, and explain why those
+     numbers fit the structure of your documents.
+     A review-heavy corpus warrants different chunking than a long FAQ. -->
+
+     chunking reddit, college confidential, and professor reviews may be similar. I think that chunking the requirements page, an article, and the course lottery page might be different. 
+
+     Paragraph splitting seems good for college confidential, professor reviews, requirements, the article and lottery page. I think most of the meaning bites will be in a pragraph. I think for reddit I would use fixed chunking because people can write in weird formats at times. 
+
+     Prompted Claude some: big chunks hurt opinion reviews because a large chunk size will swallow several reviews (loss of meaning). So, it is 
+     good that I had decided to use paragraph splitting. Chunk size for reddit
+     could hurt us potentially, but I feel like the overlap gives some safety.
+     I'm expecting some repercussions though.
 
 **Chunk size:**
+     400-600. (Reddit, will use paragraph splitting otherwise)
 
 **Overlap:**
 
-**Why these choices fit your documents:**
+     100 chars
 
-**Final chunk count:**
+**Reasoning:**
+     400-600 chars looks like a reasonable size chunk for reddit; I looked at visuals of char counts online. 100 chars overlap seems like it would capture meaningful idea boundaries.
 
 ---
 

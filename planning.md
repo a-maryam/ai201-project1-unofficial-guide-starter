@@ -50,16 +50,26 @@ CS course lottery until I got to campus; even though it is on the registrar's we
 
      chunking reddit, college confidential, and professor reviews may be similar. I think that chunking the requirements page, an article, and the course lottery page might be different. 
 
+     Paragraph splitting seems good for college confidential, professor reviews, requirements, the article and lottery page. I think most of the meaning bites will be in a pragraph. I think for reddit I would use fixed chunking because people can write in weird formats at times. 
+
+     Prompted Claude some: big chunks hurt opinion reviews because a large chunk size will swallow several reviews (loss of meaning). So, it is 
+     good that I had decided to use paragraph splitting. Chunk size for reddit
+     could hurt us potentially, but I feel like the overlap gives some safety.
+     I'm expecting some repercussions though.
+
 **Chunk size:**
+     400-600. (Reddit, will use paragraph splitting otherwise)
 
 **Overlap:**
 
+     100 chars
+
 **Reasoning:**
+     400-600 chars looks like a reasonable size chunk for reddit; I looked at visuals of char counts online. 100 chars overlap seems like it would capture meaningful idea boundaries.
 
 ---
 
 ## Retrieval Approach
-bout 
 <!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
      How many chunks will you retrieve per query (top-k)?
      If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
@@ -67,10 +77,13 @@ bout
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+all-MiniLM-L6-v2 from sentence-transformers should be fine
 
 **Top-k:**
+I am going to try 5 chunks at first and maybe add some more if answers are poor. Too many adds irrelavent info.
 
 **Production tradeoff reflection:**
+(Had claude help) There are better models for student informal language and slang like text-embedding-3-large or Voyage/Cohere. Another embedding model could be useful for the long requirements and course lottery pages. 
 
 ---
 
@@ -99,7 +112,7 @@ bout
 
 1. I am worried that I may not have enough information to answer everything I wanted in scope. I think some of the limitation is that there are actually not many online sources since Haverford is a smaller institution.
 
-2.
+2. Chunk size for reddit may be too big or too small for some comments.
 
 ---
 
@@ -111,6 +124,7 @@ bout
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+![Architecture Diagram](arch_diagram.png)
 ---
 
 ## AI Tool Plan
@@ -125,8 +139,30 @@ bout
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
+     
+
+     
+
+
+
 **Milestone 3 — Ingestion and chunking:**
+
+     Going to use AI to write the chunking code based on my chunk size and overlap. Will need a paragraph breaking chunker + fixed size chunker.
 
 **Milestone 4 — Embedding and retrieval:**
 
+     Use AI to help ChromaDB setup if necessary (may not be). Use it to help with embedding chunks if need be and debugging as needed; I can probably not use it for this part.
+
+     Retrieve from ChromaDB (don't think AI needs to be heavily used here). Could have it generate it.
+
+     Probably have AI load up the test cases.
+
 **Milestone 5 — Generation and interface:**
+
+     AI doesn't seem particularly necessary here.
+     Maybe adjust UI with it if needed
+
+
+AI Transparency:
+
+Used AI to learn more about embedding tradeoffs and to understand further what the project is asking of me since I'm new to the content. 
