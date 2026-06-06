@@ -140,12 +140,17 @@ I am going to try 5 chunks at first and maybe add some more if answers are poor.
      results from an unrelated review" is an explanation. -->
 
 **Question that failed:**
+What is CS240 about?
 
 **What the system returned:**
+top hits were H245/H260/H251, not H240
 
 **Root cause (tied to a specific pipeline stage):**
+The text for courses calls CS240: CMSC H240 so it the model is hitting other courses.
 
 **What you would change to fix it:**
+Could normalize course codes: rewrite CMSC H240 / CS240 / CS 240 to a single form. 
+Also token matching
 
 ---
 
@@ -187,10 +192,13 @@ Planning.md, Can you use planning.md as a basis to write a script to load all th
 - *What it produced:*
 Wrote the chunking based on paragraph + length
 - *What I changed or overrode:*
-It suggested that we add a extra strategy that if we have too large of a paragraph
+It suggested that we add a extra strategy that if we have too large of a paragraph it gets chunked fixed-length; I thought that was a good idea and integrated it.
 
 **Instance 2**
 
 - *What I gave the AI:*
+Read the Retrieval Approach section in planning.md and look at the diagram (Architecture Diagram). Can you implement the embedding which is loading the chunks from the ingestion script, embedding with all-MiniLM-l6-v2, and storing in ChromaDB with the metadata. And write a retrieval function.
 - *What it produced:*
+Ingest.py 
 - *What I changed or overrode:*
+ Keep this code and load up all evaluation questions from planning.md as a sample question array in the main

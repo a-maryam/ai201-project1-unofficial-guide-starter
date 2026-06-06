@@ -43,3 +43,27 @@ Total chunks: 369
 
 
 {'source': '11_haverford_cs_reqs.txt', 'method': 'paragraph', 'chunk_index': 37, 'text': '), MATH H394 (Logic), MATH H394 (Cryptography), MATH H395 (Combinatorics), or STAT H203, STAT H218, STAT H286, or STAT H396.\nCMSC H251 Principles of Computing Systems\nStudents wishing to continue to CMSC B355 may substitute CMSC B223 Systems Programming\nStudents not taking a 35X course may substitute CMSC H240 Principles of Computer Organization or CMSC H245 Principles of Programming Languages\nCMSC H260 Foundations of Data Science\nOne 300-level core course from the following list\nCMSC H340 Analy'}
+
+------------------------------------------------
+
+Retrieval of chunks
+
+1. What is CS240 about? — ⚠️ Can't answer. As we discussed, retrieval returned other catalog entries (H245, H251, H260) and no description of H240 exists in the documents. The corpus only knows H240's title ("Principles of Computer Organization") from the requirements page. This is your failure case.
+
+2. What is Professor Wonacott like? — ✅ Strong, and matches your expected answer. The RMP reviews are genuinely mixed: praised as friendly, caring, passionate, knowledgeable, a good/clear grader ("really an amazing professor," "AWESOMMMME"), but repeatedly criticized as long-winded — "over-explains," "windbag," "takes an hour and a half to explain something that could've been covered in 5 minutes," talks too fast. Several reviewers recommend knowing Python beforehand. That's almost exactly your planning.md expected answer ("friendly, not the best at teaching, long-winded").
+
+3. What is the course lottery like at Haverford? — ✅ Accurate but procedural. Retrieval pulled the official lottery guidelines: you must register by the deadline to be entered; the Registrar runs the lottery right after; you can request preferential treatment if you've been lotteried out before; first-years get reserved spots in lower-division courses; upper-division goes by seniority. Note: this is the official mechanics, not the student-stress angle your expected answer described ("stressful, not guaranteed, usually ok"). The "brutal lottery" sentiment actually lives in 2_college_confidential.txt, which ranked #5 — so retrieval leaned official over informal here.
+
+4. What is the CS department like? — ✅ Matches well. Sources converge on: more theoretical than applied, smaller but growing, supportive professors but hit-or-miss overall, with the faculty-shortage article adding context about strain. College Confidential: "more of a theoretical background… not one of the larger ones… very challenging but professors are very supportive." Lines up with your expected answer ("nice, theoretical over applied").
+
+5. What courses should a first-year take, and are they difficult? — ⚠️ Partial. Retrieval got the sentiment — intro courses are "rigorous but not unmanageable," people were "fond of both the regular and accelerated intro courses," and the intro classes are "the hardest, it gets easier from there." But it did not cleanly surface the specific CS105-vs-CS106 placement guidance from your expected answer. That detail lives in the requirements file, which didn't rank in the top 5 — a retrieval gap worth noting.
+
+Summary: 2 strong (Wonacott, department), 2 partial (lottery leans official; first-year missing the 105/106 specifics), 1 fail (CS240, corpus gap). That's a solid, honest basis for your Evaluation Report table — and questions 3 and 5 give you a second failure-mode to discuss: the right chunk existed but ranked just outside top-k. Bumping k to 7–8, as you anticipated in planning.md, might recover both.
+
+
+#	Question	Best dist	Top-5 spread	Read
+1	CS240	0.549	0.549 → 0.599	⚠️ weak & flat
+2	Wonacott	0.433	0.433 → 0.577	✅ strong
+3	Lottery	0.330	0.330 → 0.519	✅ very strong
+4	CS dept	0.431	0.431 → 0.526	✅ strong
+5	First-year	0.361	0.361 → 0.465	✅ strong
