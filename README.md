@@ -88,6 +88,8 @@ all-MiniLM-L6-v2 from sentence-transformers should be fine
 **Top-k:**
 I am going to try 5 chunks at first and maybe add some more if answers are poor. Too many adds irrelavent info.
 
+Final: top-k = 10. I started at 5, but end-to-end testing showed the first-year-courses question refused at k=5 (and k=8) because the CS105/106 placement chunk only entered the retrieval window at k=10. Raising it recovered that answer.
+
 **Production tradeoff reflection:**
 (Had claude help) There are better models for student informal language and slang like text-embedding-3-large or Voyage/Cohere. Another embedding model could be useful for the long requirements and course lottery pages. 
 ---

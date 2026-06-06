@@ -67,3 +67,14 @@ Summary: 2 strong (Wonacott, department), 2 partial (lottery leans official; fir
 3	Lottery	0.330	0.330 → 0.519	✅ very strong
 4	CS dept	0.431	0.431 → 0.526	✅ strong
 5	First-year	0.361	0.361 → 0.465	✅ strong
+
+Results — 5/5 pass
+Question	Outcome
+CS240	✅ Correctly refuses (corpus gap), no sources — grounding works
+Wonacott	✅ Grounded answer + RMP source
+Lottery	✅ Grounded + Registrar source
+CS department	✅ Grounded + Reddit/CC sources
+First-year courses	✅ Now answered (CS106/107) + sources — recovered by k=10
+
+
+Generate the generation and interface code (use gradio web UI). All that is needed for the interface is the ability to type in questions, be served answer with sources: which links.  Use llama-3.3-70b-versatile for the LLM. Pass Groq the prompt: "Answer the question using only the information in the provided documents. If the documents don't contain enough information to answer, say 'I don't have enough information on that." Set up end-to-end tests on the 5 questions

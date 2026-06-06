@@ -26,7 +26,9 @@ from ingest import load_documents, chunk_document
 CHROMA_DIR = Path(__file__).parent / "chroma_db"   # gitignored local store
 COLLECTION_NAME = "unofficial_guide"
 EMBED_MODEL_NAME = "all-MiniLM-L6-v2"              # sentence-transformers
-DEFAULT_TOP_K = 5                                  # planning.md: start with 5
+DEFAULT_TOP_K = 10                                 # raised from 5: the first-year
+                                                   # course guidance ranked outside
+                                                   # the top 5 (see Evaluation)
 
 # The five evaluation questions from planning.md ("Evaluation Plan").
 EVAL_QUESTIONS = [

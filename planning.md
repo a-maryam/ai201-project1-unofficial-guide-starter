@@ -82,8 +82,27 @@ all-MiniLM-L6-v2 from sentence-transformers should be fine
 **Top-k:**
 I am going to try 5 chunks at first and maybe add some more if answers are poor. Too many adds irrelavent info.
 
+Update (during implementation): raised top-k from 5 to 10. End-to-end testing showed the first-year-courses question ("What courses should a first-year take?") refused at k=5 and even k=8 — the CS105/106 placement guidance lived in a chunk that only entered the retrieval window at k=10. Bumping to 10 recovered that answer. This is the "add some more if answers are poor" case I anticipated.
+
 **Production tradeoff reflection:**
 (Had claude help) There are better models for student informal language and slang like text-embedding-3-large or Voyage/Cohere. Another embedding model could be useful for the long requirements and course lottery pages. 
+
+---
+
+## Grounded Generation
+
+<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
+     beyond the retrieved documents?
+     Describe both your system prompt (what instruction you gave the model) and any structural
+     choices (e.g., how you formatted the context, whether you filtered low-relevance chunks).
+     Do not just say "I told it to use the documents" — show the actual instruction or explain
+     the mechanism. -->
+
+**System prompt grounding instruction:**
+Only answer based on the content provided. Do not use outside 
+sources to answer questions.
+
+**How source attribution is surfaced in the response:**
 
 ---
 
